@@ -1,0 +1,361 @@
+D:\CAManager\CAManager\bin\Debug\CAManager.exe.config
+D:\CAManager\CAManager\bin\Debug\CAManager.exe
+D:\CAManager\CAManager\bin\Debug\CAManager.pdb
+D:\CAManager\CAManager\bin\Debug\FontAwesome.Sharp.dll
+D:\CAManager\CAManager\bin\Debug\MaterialSkin.dll
+D:\CAManager\CAManager\obj\Debug\CAManager.csprojAssemblyReference.cache
+D:\CAManager\CAManager\obj\Debug\CAManager.Home.resources
+D:\CAManager\CAManager\obj\Debug\CAManager.Properties.Resources.resources
+D:\CAManager\CAManager\obj\Debug\CAManager.csproj.GenerateResource.cache
+D:\CAManager\CAManager\obj\Debug\CAManager.csproj.CoreCompileInputs.cache
+D:\CAManager\CAManager\obj\Debug\CAManager.csproj.CopyComplete
+D:\CAManager\CAManager\obj\Debug\CAManager.exe
+D:\CAManager\CAManager\obj\Debug\CAManager.pdb
+D:\CAManager\CAManager\obj\Debug\CAManager.frmRegistration.resources
+D:\CAManager\CAManager\obj\Debug\CAManager.frmDetailMaster.resources
+D:\CAManager\CAManager\obj\Debug\CAManager.frmTaskList.resources
+D:\CAManager\CAManager\obj\Debug\CAManager.frmCompany.resources
+D:\CAManager\CAManager\obj\Debug\CAManager.frmActivity.resources
+D:\CAManager\CAManager\obj\Debug\CAManager.frmUserRegister.resources
+D:\CAManager\CAManager\obj\Debug\CAManager.Login.resources
+D:\CAManager\CAManager\obj\Debug\CAManager.frmChangePassword.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\bin\Debug\CAManager.exe.config
+D:\Aondigicon\CAManager\CAManager\CAManager\bin\Debug\CAManager.exe
+D:\Aondigicon\CAManager\CAManager\CAManager\bin\Debug\CAManager.pdb
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.csprojAssemblyReference.cache
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.frmActivity.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.frmChangePassword.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.frmCompany.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.frmDetailMaster.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.frmRegistration.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.frmTaskList.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.frmUserRegister.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.Home.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.Login.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.Properties.Resources.resources
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.csproj.GenerateResource.cache
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.csproj.CoreCompileInputs.cache
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.csproj.CopyComplete
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.exe
+D:\Aondigicon\CAManager\CAManager\CAManager\obj\Debug\CAManager.pdb
+D:\Aondigicon\CAManager\CAManager\CAManager\bin\Debug\FontAwesome.Sharp.dll
+D:\Aondigicon\CAManager\CAManager\CAManager\bin\Debug\MaterialSkin.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\CAManager.exe.config
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\CAManager.exe
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\CAManager.pdb
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\FontAwesome.Sharp.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\MaterialSkin.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmActivity.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmChangePassword.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmCompany.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmDetailMaster.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmRegistration.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmTaskList.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmUserRegister.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.Home.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.Login.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.Properties.Resources.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.csproj.GenerateResource.cache
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.csproj.CoreCompileInputs.cache
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.csproj.CopyComplete
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.exe
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.pdb
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmCompanyFees.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmFirm.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmInvoice.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.frmReport.resources
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\RdlCompile.cache
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\RdlCompile.compiled
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.csproj.AssemblyReference.cache
+E:\Office Work\5). May\Windows Application\CAManager\CAManager\obj\Debug\CAManager.popForm.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.csproj.AssemblyReference.cache
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmActivity.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmChangePassword.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmCompany.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmCompanyFees.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmDetailMaster.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmFirm.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmInvoice.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmRegistration.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmReport.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmTaskList.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.frmUserRegister.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.Home.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.Login.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.popForm.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.Properties.Resources.resources
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.csproj.GenerateResource.cache
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\RdlCompile.cache
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\RdlCompile.compiled
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.exe
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.pdb
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\CAManager.exe.config
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\CAManager.exe
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\CAManager.pdb
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\FontAwesome.Sharp.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\MaterialSkin.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.csproj.CoreCompileInputs.cache
+E:\CAManager 16-06-23_6-51-AM\CAManager\obj\Debug\CAManager.csproj.CopyComplete
+E:\CAManager 16-06-23_6-51-AM\CAManager\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\CAManager.exe.config
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\CAManager.exe
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\CAManager.pdb
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\FontAwesome.Sharp.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\MaterialSkin.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmActivity.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmChangePassword.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmCompany.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmCompanyFees.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmDetailMaster.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmFirm.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmInvoice.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmRegistration.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmReport.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmTaskList.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.frmUserRegister.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.Home.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.Login.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.popForm.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.Properties.Resources.resources
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.csproj.GenerateResource.cache
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\RdlCompile.cache
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\RdlCompile.compiled
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.csproj.CoreCompileInputs.cache
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.csproj.CopyComplete
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.exe
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.pdb
+F:\CAManager 1123_AM_6-17-23\CAManager\obj\Debug\CAManager.csproj.AssemblyReference.cache
+E:\CAManager 22-06-23\CAManager\bin\Debug\CAManager.exe.config
+E:\CAManager 22-06-23\CAManager\bin\Debug\CAManager.exe
+E:\CAManager 22-06-23\CAManager\bin\Debug\CAManager.pdb
+E:\CAManager 22-06-23\CAManager\bin\Debug\FontAwesome.Sharp.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\MaterialSkin.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CAManager 22-06-23\CAManager\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmActivity.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmChangePassword.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmCompany.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmCompanyFees.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmDetailMaster.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmFirm.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmInvoice.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmRegistration.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmReport.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmTaskList.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmUserRegister.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.Home.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.Login.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.popForm.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.Properties.Resources.resources
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.csproj.GenerateResource.cache
+E:\CAManager 22-06-23\CAManager\obj\Debug\RdlCompile.cache
+E:\CAManager 22-06-23\CAManager\obj\Debug\RdlCompile.compiled
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.csproj.CoreCompileInputs.cache
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.csproj.CopyComplete
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.exe
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.pdb
+E:\CAManager 22-06-23\CAManager\obj\Debug\CAManager.csproj.AssemblyReference.cache
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.csproj.AssemblyReference.cache
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmActivity.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmChangePassword.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmCompany.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmCompanyFees.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmDetailMaster.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmFirm.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmInvoice.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmRegistration.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmReport.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmTaskList.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.frmUserRegister.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.Home.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.Login.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.popForm.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.Properties.Resources.resources
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.csproj.GenerateResource.cache
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.csproj.CoreCompileInputs.cache
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.exe
+E:\Aon Digicon\6). June\CAManager 22-06-23\CAManager\obj\Debug\CAManager.pdb
